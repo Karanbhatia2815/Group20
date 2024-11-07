@@ -20,3 +20,27 @@ DESCRIPTION of Block Diagram Components:
   The actual motor being controlled, which performs the physical work.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
