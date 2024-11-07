@@ -1,4 +1,4 @@
-# Group20
+# Group20_Project
 
 Aim: To design and implement a motor control system using the TM4C123GH6PM microcontroller, which receives commands via a PuTTY interface and provides real-time feedback on the motor's status. The system aims to demonstrate effective communication between the user and the hardware, enabling control and monitoring of motor operations.
 
