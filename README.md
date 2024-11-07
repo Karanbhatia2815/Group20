@@ -3,7 +3,7 @@
 Stepper Motor Control with Real Time Data Logging
 
 AIM: 
-This project involves controlling a stepper motor using the TM4C123 microcontroller and logging speed and position data in real-time. The data will be stored on an SD card or displayed on an interface, providing insights into the motor's performance.
+This project involves controlling the speed of a Stepper Motor using the TM4C123G Microcontroller and logging speed and position data in real-time, and displaying the data on LCD Display, providing insights into the motor's performance.
 
 
 DESCRIPTION of Block Diagram Components:
